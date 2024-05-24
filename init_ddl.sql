@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS lg_table;
+DROP TABLE IF EXISTS lg_table CASCADE;
 CREATE TABLE lg_table
 (
     id           SERIAL,
