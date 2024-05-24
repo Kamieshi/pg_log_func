@@ -1,4 +1,6 @@
 # pg_log_func
+Adding log table for postgres.
+This function provide adding log points to your existing function for trekking execution time between points.
 
 ### Example usege:
 
